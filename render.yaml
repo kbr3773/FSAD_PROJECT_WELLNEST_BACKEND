@@ -3,4 +3,3 @@ services:
     name: wellnest-backend
     env: docker
     buildCommand: mvn clean install
-    startCommand: java -jar target/*.jar
