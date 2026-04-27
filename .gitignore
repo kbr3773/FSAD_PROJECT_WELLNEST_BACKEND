@@ -1,0 +1,8 @@
+target/
+.mvn/
+*.log
+.DS_Store
+.vscode/*
+!.vscode/launch.json
+!.vscode/settings.json
+src/main/resources/application.properties
